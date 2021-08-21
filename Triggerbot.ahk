@@ -1,6 +1,6 @@
 ﻿Threshold = 20
 
-*~$t::
+*~$h::
 MouseGetPos, MouseX, MouseY
 PixelGetColor, Color1, (MouseX+2), (MouseY+2)
 StringSplit, Colorz, Color1
