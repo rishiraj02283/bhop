@@ -8,5 +8,5 @@ Send,{space}
 Sleep,20
 }
 return
-~CapsLock::Suspend
+~Alt::Suspend
 Numpad0::Exitapp
